@@ -1,0 +1,11 @@
+import java.util.*;
+class Java{
+    public static void main(String args[]){
+        Scanner scn = new Scanner(System.new);
+        int x = scn.nextInt();
+        for(x=1 ; x<10 ; x++){
+            System.out.println(x);
+        }
+       
+    }
+}
